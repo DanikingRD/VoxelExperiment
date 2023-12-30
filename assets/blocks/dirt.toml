@@ -1,7 +1,0 @@
-[settings]
-name = "Dirt"
-
-[textures]
-top = "dirt"
-bottom = "dirt"
-side = "dirt"

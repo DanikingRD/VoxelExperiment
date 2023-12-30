@@ -6,18 +6,5 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-render = { path = "../render", package = "explora_render" }
-core = { path = "../core", package = "explora_core" }
-server = { path = "../server", package = "explora_server" }
-log = { workspace = true }
-vek = { workspace = true }
-apecs = { workspace = true }
-toml = { workspace = true }
-serde = { workspace = true }
-noise = { workspace = true }
-env_logger = "0.10.0"
-winit = "0.28.7"
-rand = "0.8.5"
-egui = "0.23.0"
-egui-winit = "0.23.0"
-rayon = "1.8.0"
+log.workspace = true
+termcolor = "1.4.0"

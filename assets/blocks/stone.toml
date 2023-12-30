@@ -1,7 +1,0 @@
-[settings]
-name = "Stone"
-
-[textures]
-top = "stone"
-side = "stone"
-bottom = "stone"

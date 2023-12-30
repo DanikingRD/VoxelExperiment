@@ -1,16 +1,3 @@
-# VoxelExperiment
-A basic VoxelEngine written in Rust for learning WGPU.
+# Explora
 
-![Screenshot](assets/game-screenshot.png)
-
-## Controls
-
-| Key            | Action                |
-| -------------- | --------------------- |
-| W, A, S, D     | Move around           |
-| Space          | Move up               |
-| Shift          | Move down             |
-| Mouse movement | Look around           |
-| Period         | Toggle Cursor         |
-| F12            | Toggle Wireframe View |
-
+An open source voxel game featuring procedurally generated infinite worlds and easy modding.

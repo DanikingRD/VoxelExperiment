@@ -1,7 +1,0 @@
-[settings]
-name = "Grass"
-
-[textures]
-top = "grass_top"
-side = "grass_side"
-bottom = "dirt"
